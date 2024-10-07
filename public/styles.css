@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+  }
+  
+  #game-area {
+    margin-top: 50px;
+  }
+  
+  #hand {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+  }
+  
+  .card {
+    width: 100px;
+    height: 150px;
+    background-color: #fff;
+    border: 1px solid #000;
+    margin: 0 10px;
+  }
+  
